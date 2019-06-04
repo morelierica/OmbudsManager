@@ -1,0 +1,17 @@
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.config
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.pdb
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.csprojResolveAssemblyReference.cache
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Login.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Properties.Resources.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.csproj.GenerateResource.Cache
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.csproj.CoreCompileInputs.cache
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.pdb
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Home.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestacao.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.NovaManif.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Pesquisa.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Cadastro.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestante.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.PesquisaManifestante.resources
