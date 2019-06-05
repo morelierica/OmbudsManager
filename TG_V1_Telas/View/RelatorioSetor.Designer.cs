@@ -80,7 +80,7 @@
             this.dateTimePickerDataFinal.Name = "dateTimePickerDataFinal";
             this.dateTimePickerDataFinal.Size = new System.Drawing.Size(163, 20);
             this.dateTimePickerDataFinal.TabIndex = 53;
-            this.dateTimePickerDataFinal.Value = new System.DateTime(2018, 6, 4, 21, 9, 12, 0);
+            this.dateTimePickerDataFinal.Value = new System.DateTime(2019, 6, 5, 0, 0, 0, 0);
             // 
             // label1
             // 
@@ -101,7 +101,7 @@
             this.dateTimePickerDataInicial.Name = "dateTimePickerDataInicial";
             this.dateTimePickerDataInicial.Size = new System.Drawing.Size(163, 20);
             this.dateTimePickerDataInicial.TabIndex = 51;
-            this.dateTimePickerDataInicial.Value = new System.DateTime(2018, 6, 4, 21, 9, 4, 0);
+            this.dateTimePickerDataInicial.Value = new System.DateTime(2019, 6, 5, 0, 0, 0, 0);
             // 
             // label2
             // 

@@ -66,5 +66,10 @@ namespace TG_V1_Telas.View
                 MessageBox.Show("PostgreSQL Error!", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void crystalReportViewerRptSetor_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -290,7 +290,7 @@
             this.dateTimePickerInicial.Name = "dateTimePickerInicial";
             this.dateTimePickerInicial.Size = new System.Drawing.Size(113, 21);
             this.dateTimePickerInicial.TabIndex = 4;
-            this.dateTimePickerInicial.Value = new System.DateTime(2018, 5, 20, 0, 0, 0, 0);
+            this.dateTimePickerInicial.Value = new System.DateTime(2019, 6, 5, 0, 0, 0, 0);
             this.dateTimePickerInicial.Visible = false;
             // 
             // labelDataInicial
@@ -315,7 +315,7 @@
             this.dateTimePickerFinal.Name = "dateTimePickerFinal";
             this.dateTimePickerFinal.Size = new System.Drawing.Size(113, 21);
             this.dateTimePickerFinal.TabIndex = 5;
-            this.dateTimePickerFinal.Value = new System.DateTime(2018, 5, 20, 0, 0, 0, 0);
+            this.dateTimePickerFinal.Value = new System.DateTime(2019, 6, 5, 0, 0, 0, 0);
             this.dateTimePickerFinal.Visible = false;
             // 
             // labelDataFinal
