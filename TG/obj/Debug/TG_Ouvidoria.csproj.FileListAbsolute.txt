@@ -1,0 +1,394 @@
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.config
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.manifest
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.application
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\bin\Debug\TG_V1_Telas.pdb
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csprojResolveAssemblyReference.cache
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Cadastro.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Home.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Login.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestacao.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestante.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.NovaManif.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Pesquisa.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.PesquisaManifestante.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.Properties.Resources.resources
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.GenerateResource.Cache
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CoreCompileInputs.cache
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe.manifest
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.application
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.pdb
+C:\projetoTG\TG_V1_Telas\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Sobre.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.config
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.manifest
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\TG_V1_Telas.application
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\TG_V1_Telas.pdb
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csprojResolveAssemblyReference.cache
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.Home.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.Login.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestacao.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestante.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.NovaManif.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.Pesquisa.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.Properties.Resources.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Sobre.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.GenerateResource.Cache
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CoreCompileInputs.cache
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe.manifest
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.application
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.pdb
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestacao.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Detalhamento.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Resolucao.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroUsuarios.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroSetores.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroConvenios.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\Npgsql.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\Npgsql.xml
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.TestePg.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Usuario.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestante.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaUsuario.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Setor.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Convenio.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarUsuario.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\BuscaCEP.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\Cpf.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\Cpf.pdb
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\Cpf.xml
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaSetor.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaConvenio.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSetor.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioPeriodo.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioStatus.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioManifestante.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestacao.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.Shared.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\FlashControlV71.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\ShockwaveFlashObjects.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\bin\Debug\stdole.dll
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptPeriodo.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptStatus.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizaRptManifestante.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSenha.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptSetor.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioSetor.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestante.resources
+C:\projetoTG\TG_Ouvidoria\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.PesquisaManifestante.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csprojAssemblyReference.cache
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.TestePg.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroConvenios.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestacao.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestante.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroSetores.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroUsuarios.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaConvenio.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaSetor.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaUsuario.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Convenio.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Detalhamento.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestacao.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestante.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSenha.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSetor.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarUsuario.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.Home.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.Login.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestacao.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestante.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.NovaManif.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.Pesquisa.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.Properties.Resources.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.PesquisaManifestante.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioManifestante.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioPeriodo.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioSetor.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioStatus.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Resolucao.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Setor.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Sobre.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Usuario.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizaRptManifestante.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptSetor.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptStatus.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptPeriodo.resources
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.GenerateResource.cache
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.pdb
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.config
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.manifest
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\TG_V1_Telas.application
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\TG_V1_Telas.pdb
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\BuscaCEP.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\Cpf.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\Npgsql.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\stdole.dll
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\Cpf.pdb
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\Cpf.xml
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\Npgsql.xml
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe.manifest
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_V1_Telas.application
+C:\Users\Erica\Downloads\Código-20190502T225835Z-001\Código\V2_Banco de dados\TG_V71_bkp de segurança\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CopyComplete
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.config
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.manifest
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\TG_V1_Telas.application
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\TG_V1_Telas.pdb
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\BuscaCEP.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\Cpf.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\FlashControlV71.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\Npgsql.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\stdole.dll
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\Cpf.pdb
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\Cpf.xml
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\Npgsql.xml
+C:\Projetos\TG\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csprojAssemblyReference.cache
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.TestePg.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroConvenios.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestacao.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestante.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroSetores.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroUsuarios.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaConvenio.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaSetor.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaUsuario.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Convenio.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Detalhamento.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestacao.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestante.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSenha.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSetor.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarUsuario.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.Home.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.Login.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestacao.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestante.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.NovaManif.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.Pesquisa.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.Properties.Resources.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.PesquisaManifestante.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioManifestante.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioPeriodo.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioSetor.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioStatus.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Resolucao.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Setor.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Sobre.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Usuario.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizaRptManifestante.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptSetor.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptStatus.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptPeriodo.resources
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.GenerateResource.cache
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CoreCompileInputs.cache
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe.manifest
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.application
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CopyComplete
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe
+C:\Projetos\TG\TG_V1_Telas\obj\Debug\TG_V1_Telas.pdb
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.config
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe.manifest
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\TG_V1_Telas.application
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\TG_V1_Telas.exe
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\TG_V1_Telas.pdb
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\BuscaCEP.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\Cpf.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\FlashControlV71.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\Npgsql.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\stdole.dll
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\Cpf.pdb
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\Cpf.xml
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\Npgsql.xml
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csprojAssemblyReference.cache
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroConvenios.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestacao.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroSetores.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.CadastroUsuarios.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaConvenio.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaSetor.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.ConsultaUsuario.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Convenio.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Detalhamento.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestacao.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSenha.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarSetor.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.EditarUsuario.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.Home.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.Login.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestacao.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.Manifestante.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.NovaManif.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.Pesquisa.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.Properties.Resources.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.PesquisaManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioPeriodo.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioSetor.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.RelatorioStatus.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Resolucao.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Setor.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Sobre.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.Usuario.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizaRptManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptSetor.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptStatus.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.View.VisualizarRptPeriodo.resources
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.GenerateResource.cache
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CoreCompileInputs.cache
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe.manifest
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.application
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_Ouvidoria.csproj.CopyComplete
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.exe
+C:\Projetos\TG\OmbudsManager\TG_V1_Telas\obj\Debug\TG_V1_Telas.pdb
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG_Ouvidoria.csprojAssemblyReference.cache
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.CadastroConvenios.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG_Ouvidoria.csproj.GenerateResource.cache
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG_Ouvidoria.csproj.CoreCompileInputs.cache
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.CadastroManifestacao.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.CadastroManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.CadastroSetores.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.CadastroUsuarios.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.ConsultaConvenio.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.ConsultaSetor.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.ConsultaUsuario.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.Convenio.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.Detalhamento.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.EditarManifestacao.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.EditarManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.EditarSenha.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.EditarSetor.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.EditarUsuario.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.Home.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.Login.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.Manifestacao.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.Manifestante.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.NovaManif.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.Pesquisa.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.PesquisaManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.RelatorioManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.RelatorioPeriodo.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.RelatorioSetor.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.RelatorioStatus.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.Resolucao.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.Setor.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.Sobre.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.Usuario.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.VisualizaRptManifestante.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.VisualizarRptSetor.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.VisualizarRptStatus.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.View.VisualizarRptPeriodo.resources
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\BuscaCEP.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\Cpf.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.Shared.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\FlashControlV71.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\Npgsql.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\ShockwaveFlashObjects.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\stdole.dll
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\Cpf.pdb
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\Cpf.xml
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\Npgsql.xml
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG_Ouvidoria.csproj.CopyComplete
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\TG.exe.config
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\TG.exe.manifest
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\TG.application
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\TG.exe
+C:\Projetos\TG\OmbudsManager\TG\bin\Debug\TG.pdb
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.Properties.Resources.resources
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.exe.manifest
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.application
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.exe
+C:\Projetos\TG\OmbudsManager\TG\obj\Debug\TG.pdb

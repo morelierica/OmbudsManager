@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG_Ouvidoria", "TG_V1_Telas\TG_Ouvidoria.csproj", "{C4DD86A5-75E5-49C5-9314-9A64295FE61F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG_Ouvidoria", "TG\TG_Ouvidoria.csproj", "{C4DD86A5-75E5-49C5-9314-9A64295FE61F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
